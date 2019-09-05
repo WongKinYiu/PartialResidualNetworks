@@ -30,6 +30,7 @@ Here we provide some experimental results on COCO test-dev set which are not lis
 | Pelee-YOLOv3 [[1]](https://arxiv.org/abs/1804.02767) | 320x320 | 41.4 | 2.99 | 3.91M |
 | Pelee-FPN [[4]](https://arxiv.org/abs/1612.03144) | 320x320 | 41.4 | 2.86 | 3.75M |
 | Pelee-PRN-3l | 320x320 | 42.5 | 3.98 | 3.36M |
+| mPelee-PRN | 320x320 | 42.7 | 2.82 | 3.81M |
 
 | Model | Size | mAP@0.5 | BFLOPs | # Parameter |
 | :-- | :-: | :-: | :-- | :-- |
@@ -37,6 +38,7 @@ Here we provide some experimental results on COCO test-dev set which are not lis
 | Pelee-YOLOv3 [[1]](https://arxiv.org/abs/1804.02767) | 416x416 | 45.3 | 5.06 | 3.91M |
 | Pelee-FPN [[4]](https://arxiv.org/abs/1612.03144) | 416x416 | 45.7 | 4.84 | 3.75M |
 | Pelee-PRN-3l | 416x416 | 46.3 | 5.03 | 3.36M |
+| mPelee-PRN | 416x416 | 46.8 | 4.76 | 3.81M |
 
 # Reference
 [1] Redmon, J., & Farhadi, A. (2018). Yolov3: An incremental improvement. arXiv preprint arXiv:1804.02767.
