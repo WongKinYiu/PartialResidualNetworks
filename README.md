@@ -51,4 +51,3 @@ Here we provide some experimental results on COCO test-dev set which are not lis
 
 # Acknowledgements
 [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-[https://github.com/ultralytics/yolov3](https://github.com/ultralytics/yolov3)
