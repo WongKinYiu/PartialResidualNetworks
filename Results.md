@@ -18,8 +18,11 @@
 | Pelee2-PRN (private) | 416 | 3.81M | 4.76B | 24.8 | 46.8 | 24.0 |
 | Pelee2-PRN-GIoU (private) [6] | 320 | 3.81M | 2.82B | 24.4 | 41.6 | 25.3 |
 | Pelee2-PRN-GIoU (private) [6] | 416 | 3.81M | 4.76B | 26.8 | 45.3 | 28.1 |
+| Pelee2-PRN-GIoU-Scale (private) | 416 | 3.81M | 4.76B | 26.9 | 45.5 | 28.0 |
 | Pelee2-SPP-PRN (private) [7] | 320 | - | 2.88B | 22.1 | 42.6 | 20.8 |
 | Pelee2-SPP-PRN (private) [7] | 416 | - | 4.86B | 24.7 | 47.1 | 23.6 |
+| Pelee2-SPP-PRN-GIoU-Scale (private) | o320 | - | 2.88B | 24.9 | 43.6 | 25.6 |
+| Pelee2-SPP-PRN-GIoU-Scale (private) | 416 | - | 4.86B | 27.3 | 46.4 | 28.5 |
 | Pelee2-PRN-GIoU-Mixup (private) [8] | 320 | 3.81M | 2.82B | 22.4 | 39.2 | 22.9 |
 | Pelee2-PRN-GIoU-Mixup (private) [8] | 416 | 3.81M | 4.76B | 24.3 | 42.1 | 24.9 |
 | SparsePelee-PRN [9] | 320 | - | 2.16B | 20.3 | 40.0 | 18.7 |
@@ -45,11 +48,8 @@
 | Pelee-ReCORE-BiF-GIoU-Scale (private) | 416 | - | 5.32B | 27.4 | 46.6 | 28.5 |
 | Pelee-ReBiF (private) | 416 | - | 6.63B | 26.6 | 48.8 | 26.4 |
 | Pelee-ReBiF-Scale (private) | 416 | - | 6.63B | 26.9 | 49.1 | 26.5 |
-| Pelee-ReBiF-GIoU (private) | 416 | - | 6.63B | 26.9 | 49.1 | 26.5 |
-| Pelee-ReBiF-GIoU-Scale (private) | 416 | - | 6.63B | 26.9 | 45.4 | 28.0 |
-| Pelee2-PRN-GIoU-Scale (private) | 416 | 3.81M | 4.76B | 27.5 | 46.2 | 28.6 |
-| Pelee2-SPP-PRN-GIoU-Scale (private) | o320 | - | 2.88B | 24.9 | 43.6 | 25.6 |
-| Pelee2-SPP-PRN-GIoU-Scale (private) | 416 | - | 4.86B | 27.3 | 46.4 | 28.5 |
+| Pelee-ReBiF-GIoU (private) | 416 | - | 6.63B | 26.9 | 45.4 | 28.0 |
+| Pelee-ReBiF-GIoU-Scale (private) | 416 | - | 6.63B | 27.5 | 46.2 | 28.6 |
 
 [1] Wang, R. J., Li, X., & Ling, C. X. (2018). Pelee: A real-time object detection system on mobile devices. In Advances in Neural Information Processing Systems (pp. 1963-1972).
 
