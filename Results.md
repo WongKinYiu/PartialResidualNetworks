@@ -32,13 +32,13 @@
 | PartialXPelee-PRN (private) | 416 | - | 4.17B | 25.2 | 47.2 | 24.6 |
 | Pelee2-TridentNet (private) [10] | 320 | - | 3.63B | 22.6 | 42.7 | 21.6 |
 | Pelee2-TridentNet (private) [10] | 416 | - | 6.14B | 25.5 | 47.0 | 25.2 |
-| Pelee2-CEM [11] | 320 | - | 2.85B | 21.4 | 41.2 | 20.2 |
-| Pelee2-CEM [11] | 416 | - | 4.81B | 23.7 | 45.2 | 22.8 |
-| Pelee2-CEM-SAM [11] | 320 | - | 2.90B | 21.5 | 42.0 | 20.3 |
-| Pelee2-CEM-SAM [11] | 416 | - | 4.90B | 24.2 | 46.1 | 23.3 |
+| Pelee2-CEM (private) [11] | 320 | - | 2.85B | 21.4 | 41.2 | 20.2 |
+| Pelee2-CEM (private) [11] | 416 | - | 4.81B | 23.7 | 45.2 | 22.8 |
+| Pelee2-CEM-SAM (private) [11] | 320 | - | 2.90B | 21.5 | 42.0 | 20.3 |
+| Pelee2-CEM-SAM (private) [11] | 416 | - | 4.90B | 24.2 | 46.1 | 23.3 |
 | Pelee2-CEM-SAM-One (private) [11] | 416 | - | 4.95B | 25.5 | 48.0 | 24.2 |
-| Pelee2-DC-SPP [12] | 320 | - | 2.81B | 20.0 | 38.8 | 18.9 |
-| Pelee2-DC-SPP [12] | 416 | - | 4.75B | 23.2 | 43.7 | 22.4 |
+| Pelee2-DC-SPP (private) [12] | 320 | - | 2.81B | 20.0 | 38.8 | 18.9 |
+| Pelee2-DC-SPP (private) [12] | 416 | - | 4.75B | 23.2 | 43.7 | 22.4 |
 | Pelee-ReCORE (private) | 320 | - | 2.86B | 21.6 | 42.6 | 19.7 |
 | Pelee-ReCORE (private) | 416 | - | 4.82B | 23.9 | 46.0 | 22.5 |
 | Pelee-ReCORE-BiF (private) | 320 | - | 3.15B | 24.3 | 45.8 | 23.6 |
